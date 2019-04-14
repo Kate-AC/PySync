@@ -1,0 +1,15 @@
+{
+  "current":  "./",
+  "user":     "root",
+  "domain":   "192.168.11.50",
+  "port":     "798",
+  "key":      "vega_key",
+  "path":     "~/target",
+  "option":   "--delete -av",
+  "includes": [
+  ],
+  "excludes": [
+    ".git",
+    "/pysync.json"
+  ]
+}
